@@ -1,3 +1,7 @@
+## Demonstration
+
+[Watch the robot following the line](demo.mp4)
+
 # Robotics — Fall 2026
 
 ## Week 4: Line Following with PD Control
